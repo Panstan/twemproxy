@@ -1,3 +1,5 @@
+
+web ps:scale web=1 app:app
 FROM gcc
 
 COPY . /usr/src/twemproxy
